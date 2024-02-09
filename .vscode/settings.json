@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 5,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:BlogApp}/site.db",
+            "name": "amel"
+        }
+    ]
+}
